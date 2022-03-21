@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeclK
 - 👀 I’m interested in 3d point cloud object detection
-- 🔔 My blog: [hongkun.space](hongkun.space)
+- 🔔 My blog: [hongkun.space](https://hongkun.space/)
 - 📫 Contact my at hongkun20sme@smail.nju.edu.cn
 
 <!---
