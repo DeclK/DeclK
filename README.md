@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @DeclK
-- 👀 I’m a Master's graduate from the School of Engneering Management at Nanjing University
-- 😀 I'm currently working as a self-driving algorithm engineer
-- 🔔 My blog: to-be-updated...
+- 👀 I previously worked at LiAuto, optimizing LLM infernece.
+- 👏 Specialty: LLM Quantization, Speculative Decoding, CUDA Programming
+- 😀 **Now looking for jobs!**
+- 😀 **Now looking for jobs!**
+- 😀 **Now looking for jobs!**
 - 📫 Contact me at hongkun20sme@gmail.com or 1605224559@qq.com
 
 <!---
