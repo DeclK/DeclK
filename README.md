@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeclK
-- 👀 I previously worked at LiAuto, optimizing LLM infernece.
+- 👀 I am working on optimizing LLM infernece.
 - 👏 Specialty: LLM Quantization, Speculative Decoding, CUDA Programming
 - 😀 **Now looking for jobs!**
 - 😀 **Now looking for jobs!**
