@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @DeclK
-- 👀 I am working on optimizing LLM inference.
-- 👏 Specialty: LLM Quantization, Speculative Decoding, CUDA Programming
-- 😀 **Now looking for jobs!**
-- 😀 **Now looking for jobs!**
-- 😀 **Now looking for jobs!**
+- 👀 I am working on optimizing LLM inference & training @ByteDance
 - 📫 Contact me at hongkun20sme@gmail.com or 1605224559@qq.com
 
 <!---
